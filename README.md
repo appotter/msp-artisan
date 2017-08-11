@@ -1,4 +1,4 @@
-## MSP Artisan as a Package
+## MSP Artisan Playground
 
 MSP Artisan is not available as a composer package. You can use MSP Artisan in MSP project with this package.
 
